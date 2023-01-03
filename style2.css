@@ -18,7 +18,7 @@ h3 {
   color: #b7b7b7;
 }
 .title {
-  filter: drop-shadow(0 0 15px #37ff8b);
+  filter: drop-shadow(0 0 15px #a70a0a);
   transition: 1s;
 }
 .proceedButton {
