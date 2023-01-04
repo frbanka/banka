@@ -59,7 +59,7 @@ h3 {
   opacity: 0;
   background: #373737;
   border-radius: 10px;
-  transition: opasity 0.2s;
+  transition: all 0.2s;
 }
 
 .link:hover::before {
